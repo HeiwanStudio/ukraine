@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7acc6f90.css",
+    "main.js": "/static/js/main.fedbbbea.js",
+    "static/js/787.3175581e.chunk.js": "/static/js/787.3175581e.chunk.js",
+    "static/media/img_1.png": "/static/media/img_1.31a36eb7da537c75f9df.png",
+    "static/media/img.png": "/static/media/img.2d840ce05149877e071b.png",
+    "static/media/img_2.png": "/static/media/img_2.0f6812f4d48862a8b820.png",
+    "static/media/peter_04.jpg": "/static/media/peter_04.4562761b93d6252f4dca.jpg",
+    "static/media/peter_02.jpg": "/static/media/peter_02.4530af57fc91cc55462f.jpg",
+    "static/media/peter_01.jpg": "/static/media/peter_01.08cb7554752d1370609b.jpg",
+    "static/media/peter_03.jpg": "/static/media/peter_03.79fd7f46fb51b5167c39.jpg",
+    "static/media/peter_06.jpg": "/static/media/peter_06.3a4a81921f91a7f85a35.jpg",
+    "static/media/peter_05.jpg": "/static/media/peter_05.2939218b1bf56e00515f.jpg",
+    "static/media/peter_07.jpg": "/static/media/peter_07.14abd49b47fb1003189e.jpg",
+    "static/media/SourceCodePro-Regular.woff": "/static/media/SourceCodePro-Regular.28a87092c41b9937d23e.woff",
+    "static/media/SourceCodePro-Regular.woff2": "/static/media/SourceCodePro-Regular.1d3867e51bbd770996d3.woff2",
+    "static/media/Asset 1@2x.png": "/static/media/Asset 1@2x.2e1965c0a2a702185fdf.png",
+    "index.html": "/index.html",
+    "main.7acc6f90.css.map": "/static/css/main.7acc6f90.css.map",
+    "main.fedbbbea.js.map": "/static/js/main.fedbbbea.js.map",
+    "787.3175581e.chunk.js.map": "/static/js/787.3175581e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acc6f90.css",
+    "static/js/main.fedbbbea.js"
+  ]
+}
